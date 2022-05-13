@@ -1,0 +1,66 @@
+/* .words {
+  background-image: url(../../assets/img/pizza\ 2.jpg);
+  box-shadow: inset 0 0 0 2000px rgba(49, 35, 35, 0.5);
+  background-position: center;
+  height: 505;
+  height: 100vh;
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+  box-shadow: inset 0 0 0 2000px rgba(49, 35, 35, 0.5);
+} */
+.words__pizza h1 {
+  color: black;
+  font-weight: 900;
+  font-size: 50px;
+  text-align: center;
+}
+
+.words__pizza h2 {
+  color: black;
+  font-weight: 600;
+  text-align: center;
+  font-size: 30px;
+}
+
+.words h3 {
+  font-weight: 500;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+}
+
+.food__content {
+  color: black;
+}
+
+.words {
+  color: black;
+  font-weight: 600;
+}
+
+.cartitems {
+  margin-top: 100px;
+  position: sticky;
+}
+
+.cart__text {
+  text-align: center;
+}
+
+.cart__amountsession {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: -200px;
+
+
+}
+
+.cart__inr {
+  margin-left: 250px;
+  font-size: 25px;
+}
+
+.cart__refamount {
+  font-size: 25px;
+}
